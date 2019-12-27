@@ -12,7 +12,7 @@ object Practicing {
     //listMap1 += ("AD"-> "Akki Donut")
     println(s"Elements of listMap1 = $listMap1")
     //listMap1 += ("RD"-> "Raagi Donut")
-    println(s"Elements of listMap1 = $listMap1")
+    println("Elements of listMap1 = "+listMap1("PD"))
 
   }
 
