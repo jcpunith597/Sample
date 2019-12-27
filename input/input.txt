@@ -1,0 +1,6 @@
+Emp_id,emp_name,Dept_name,Sal
+100,Ram,A,1000
+101,bhim,B,1200
+102,sgam,C,900
+103,sham,A,1900
+105,Ganesh,B,1200
